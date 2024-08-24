@@ -38,7 +38,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #7e9c88; /* Darker aqua color on hover */
+    color: #7e9c88; /* Darker teal color on hover */
 }
 
 /* Main Section Styling */
@@ -49,18 +49,27 @@ section {
     background-color: #191f36; /* Background for sections */
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Add some depth with shadows */
+    text-align: center; /* Center-align text in the section */
 }
 
 section h1 {
     color: #c7ffda; /* Teal color for headings */
     margin-bottom: 20px;
     font-size: 2.5em;
-    text-align: center;
+    font-weight: bold; /* Make heading bold */
+}
+
+section h2 {
+    color: #c7ffda; /* Teal color for sub-headings */
+    margin-bottom: 15px;
+    font-size: 2em;
+    font-weight: bold; /* Make sub-headings bold */
 }
 
 section p {
     font-size: 1.1em;
     margin-bottom: 15px;
+    text-align: center; /* Center-align paragraphs */
 }
 
 /* Footer Styling */
