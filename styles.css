@@ -56,14 +56,14 @@ section h1 {
     color: #c7ffda; /* Teal color for headings */
     margin-bottom: 20px;
     font-size: 2.5em;
-    font-weight: bold; /* Make heading bold */
+    font-weight: 700; /* Make heading bold */
 }
 
 section h2 {
     color: #c7ffda; /* Teal color for sub-headings */
     margin-bottom: 15px;
     font-size: 2em;
-    font-weight: bold; /* Make sub-headings bold */
+    font-weight: 700; /* Make sub-headings bold */
 }
 
 section p {
